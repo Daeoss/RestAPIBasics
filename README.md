@@ -19,4 +19,4 @@ To use this project, you'll need to host it on a web server and set up a MySQL d
 4. **Deploy to Web Server**
 
 ### Postman Collection
-To make testing easier, a Postman collection file is included in the /postman directory. You can import this collection into Postman to quickly access and test the available API endpoints.
+To make testing easier, a Postman collection file is included in the project's directory. You can import this collection into Postman to quickly access and test the available API endpoints.
