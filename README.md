@@ -15,7 +15,7 @@ To use this project, you'll need to host it on a web server and set up a MySQL d
 ### Installation
 1. **Clone the Repository**
 2. **Set Up the Database**
-3. **Update Database credentials (/config/Database.php)
+3. **Update Database credentials (/config/Database.php)**
 4. **Deploy to Web Server**
 
 ### Postman Collection
