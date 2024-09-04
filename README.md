@@ -3,7 +3,7 @@
 
 This project demonstrates the basic concepts of REST API development using PHP. It includes simple endpoints for creating, reading, updating, and deleting records.
 
-##Getting Started
+## Getting Started
 
 To use this project, you'll need to host it on a web server and set up a MySQL database.
 
